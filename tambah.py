@@ -1,2 +1,2 @@
-def tambah(a, b, c):
+def tambah(a, b, x):
     pass
